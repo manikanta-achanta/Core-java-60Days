@@ -1,4 +1,4 @@
-package com.manikanta.day1;
+package com.manikanta.jvm;
 
 public class HelloWorld {
 
