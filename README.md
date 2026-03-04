@@ -174,3 +174,123 @@ Today I clearly understood:
 
 🔥 Day 1 Completed Successfully.
 Next: Data Types Deep Dive.
+
+# 🚀 Day 2 – Java Data Types Deep Dive
+
+## 📅 60-Day Core Java Deep Mastery Challenge
+
+Today I learned about Java Data Types and Type Casting.
+
+---
+
+# 📚 Topics Covered
+
+* Primitive Data Types
+* Non-Primitive Data Types
+* Default Values
+* Type Casting
+* Overflow Behavior
+
+---
+
+# 🔹 Primitive Data Types
+
+Java has 8 primitive types:
+
+| Type    | Size       |
+| ------- | ---------- |
+| byte    | 1 byte     |
+| short   | 2 bytes    |
+| int     | 4 bytes    |
+| long    | 8 bytes    |
+| float   | 4 bytes    |
+| double  | 8 bytes    |
+| char    | 2 bytes    |
+| boolean | true/false |
+
+Example:
+
+```java
+int age = 21;
+double salary = 55000.50;
+char grade = 'A';
+boolean isJavaFun = true;
+```
+
+---
+
+# 🔹 Non-Primitive Data Types
+
+Examples:
+
+* String
+* Arrays
+* Classes
+* Objects
+
+Example:
+
+```java
+String name = "Manikanta";
+```
+
+Reference stored in Stack and object stored in Heap.
+
+---
+
+# 🔹 Type Casting
+
+### Implicit Casting
+
+```java
+int num = 10;
+double value = num;
+```
+
+### Explicit Casting
+
+```java
+double price = 19.99;
+int p = (int) price;
+```
+
+---
+
+# 🔹 Overflow Example
+
+```java
+byte num = 127;
+num++;
+```
+
+Output:
+
+```
+-128
+```
+
+Because byte range is **-128 to 127**.
+
+---
+
+# 💻 Programs Implemented
+
+* PrimitiveDemo.java
+* TypeCastingDemo.java
+* OverflowDemo.java
+
+---
+
+# 🎯 Learning Outcome
+
+Today I understood:
+
+* Java primitive data types
+* Type casting concepts
+* Overflow behavior
+* Difference between primitive and non-primitive types
+
+---
+
+✅ Day 2 Completed
+
