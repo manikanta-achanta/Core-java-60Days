@@ -294,3 +294,92 @@ Today I understood:
 
 ✅ Day 2 Completed
 
+
+
+# 🚀 Day 3 – Variables in Java
+
+## Topics Covered
+
+* Local Variables
+* Instance Variables
+* Static Variables
+* Variable Scope
+* Final Keyword
+
+---
+
+# Types of Variables
+
+Java has three types of variables:
+
+1. Local Variables
+2. Instance Variables
+3. Static Variables
+
+---
+
+# Local Variables
+
+Declared inside methods and stored in stack memory.
+
+Example:
+
+```java
+int x = 10;
+```
+
+---
+
+# Instance Variables
+
+Declared inside class but outside methods. Stored in heap memory as part of objects.
+
+Example:
+
+```java
+class Student {
+    int age;
+}
+```
+
+---
+
+# Static Variables
+
+Belong to the class and stored in method area.
+
+Example:
+
+```java
+static int count = 0;
+```
+
+---
+
+# Final Variables
+
+Final variables cannot be modified after initialization.
+
+Example:
+
+```java
+final int MAX = 100;
+```
+
+---
+
+# Programs Implemented
+
+* LocalVariableDemo.java
+* Student.java
+* StaticDemo.java
+* FinalDemo.java
+
+---
+
+# Learning Outcome
+
+Today I learned about different types of variables in Java and their memory behavior.
+
+Day 3 Completed.
+
