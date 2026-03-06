@@ -383,3 +383,352 @@ Today I learned about different types of variables in Java and their memory beha
 
 Day 3 Completed.
 
+
+# 🚀 Day 4 – Java Operators (Deep Dive)
+
+## 📅 60 Days Core Java Deep Mastery
+
+**Student:** Manikanta Achanta
+**Package:** `com.manikanta.operators`
+
+---
+
+# 📚 Topics Covered
+
+Today I learned different types of **Java Operators** and how they work internally.
+
+Operators studied:
+
+* Arithmetic Operators
+* Relational Operators
+* Logical Operators
+* Assignment Operators
+* Unary Operators
+* Ternary Operator
+* Bitwise Operators
+* Shift Operators
+
+---
+
+# 1️⃣ Arithmetic Operators
+
+Used for mathematical calculations.
+
+| Operator | Meaning             |
+| -------- | ------------------- |
+| +        | Addition            |
+| -        | Subtraction         |
+| *        | Multiplication      |
+| /        | Division            |
+| %        | Modulus (remainder) |
+
+Example:
+
+```java
+int a = 10;
+int b = 3;
+
+System.out.println(a + b);
+System.out.println(a % b);
+```
+
+Output:
+
+```
+13
+1
+```
+
+---
+
+# 2️⃣ Relational Operators
+
+Used to compare two values.
+
+| Operator | Meaning               |
+| -------- | --------------------- |
+| >        | Greater than          |
+| <        | Less than             |
+| >=       | Greater than or equal |
+| <=       | Less than or equal    |
+| ==       | Equal to              |
+| !=       | Not equal to          |
+
+Example:
+
+```java
+int a = 10;
+int b = 20;
+
+System.out.println(a > b);
+```
+
+Output:
+
+```
+false
+```
+
+---
+
+# 3️⃣ Logical Operators
+
+Used with boolean expressions.
+
+| Operator | Meaning     |   |            |
+| -------- | ----------- | - | ---------- |
+| &&       | Logical AND |   |            |
+|          |             |   | Logical OR |
+| !        | Logical NOT |   |            |
+
+Example:
+
+```java
+int age = 25;
+
+boolean result = age > 18 && age < 60;
+
+System.out.println(result);
+```
+
+---
+
+# 4️⃣ Assignment Operators
+
+Used to assign values to variables.
+
+| Operator | Example |
+| -------- | ------- |
+| =        | a = 5   |
+| +=       | a += 3  |
+| -=       | a -= 2  |
+| *=       | a *= 4  |
+| /=       | a /= 2  |
+
+Example:
+
+```java
+int x = 10;
+
+x += 5;
+
+System.out.println(x);
+```
+
+Output:
+
+```
+15
+```
+
+---
+
+# 5️⃣ Unary Operators
+
+Operate on a single operand.
+
+| Operator | Meaning     |
+| -------- | ----------- |
+| ++       | Increment   |
+| --       | Decrement   |
+| +        | Unary plus  |
+| -        | Unary minus |
+
+Example:
+
+```java
+int x = 5;
+
+System.out.println(x++);
+System.out.println(++x);
+```
+
+Output:
+
+```
+5
+7
+```
+
+---
+
+# 6️⃣ Ternary Operator
+
+Short form of **if-else**.
+
+Syntax:
+
+```
+condition ? value1 : value2
+```
+
+Example:
+
+```java
+int a = 10;
+int b = 20;
+
+int max = (a > b) ? a : b;
+
+System.out.println(max);
+```
+
+Output:
+
+```
+20
+```
+
+---
+
+# 7️⃣ Bitwise Operators
+
+Bitwise operators work directly on **binary bits**.
+
+Example:
+
+```
+5 = 00000101
+3 = 00000011
+```
+
+| Operator | Meaning     |            |
+| -------- | ----------- | ---------- |
+| &        | Bitwise AND |            |
+|          |             | Bitwise OR |
+| ^        | Bitwise XOR |            |
+| ~        | Bitwise NOT |            |
+
+---
+
+### Bitwise AND
+
+```
+5 & 3 = 1
+```
+
+Example:
+
+```java
+int a = 5;
+int b = 3;
+
+System.out.println(a & b);
+```
+
+---
+
+### Bitwise OR
+
+```
+5 | 3 = 7
+```
+
+---
+
+### Bitwise XOR
+
+```
+5 ^ 3 = 6
+```
+
+---
+
+### Bitwise NOT
+
+```
+~5 = -6
+```
+
+Formula:
+
+```
+~n = -(n + 1)
+```
+
+---
+
+# 8️⃣ Shift Operators
+
+Used to shift bits left or right.
+
+| Operator | Meaning     |
+| -------- | ----------- |
+| <<       | Left Shift  |
+| >>       | Right Shift |
+
+---
+
+### Left Shift
+
+```
+5 << 1 = 10
+```
+
+Rule:
+
+```
+a << n = a × 2ⁿ
+```
+
+---
+
+### Right Shift
+
+```
+8 >> 1 = 4
+```
+
+Rule:
+
+```
+a >> n = a ÷ 2ⁿ
+```
+
+---
+
+# 💻 Programs Implemented
+
+The following programs were implemented today:
+
+* ArithmeticDemo.java
+* RelationalDemo.java
+* LogicalDemo.java
+* AssignmentDemo.java
+* UnaryDemo.java
+* TernaryDemo.java
+* BitwiseAndDemo.java
+* BitwiseOrDemo.java
+* BitwiseXorDemo.java
+* BitwiseNotDemo.java
+* LeftShiftDemo.java
+* RightShiftDemo.java
+* SwapUsingXOR.java
+
+---
+
+# 🎯 Important Interview Concepts
+
+* Difference between `&` and `&&`
+* Difference between `|` and `||`
+* Pre-increment vs Post-increment
+* Why `~5 = -6`
+* Bit shifting multiplication and division
+* XOR swap algorithm
+
+---
+
+# 🧠 Learning Outcome
+
+Today I understood:
+
+* How Java operators work internally
+* How bitwise operations work using binary numbers
+* How shift operators affect numbers
+* Operator precedence and expression evaluation
+
+---
+
+✅ **Day 4 Completed – Java Operators**
+
+
