@@ -732,3 +732,95 @@ Today I understood:
 ✅ **Day 4 Completed – Java Operators**
 
 
+# 🚀 Day 5 – Control Flow Statements
+
+## Topics Covered
+
+* if statement
+* if-else statement
+* else-if ladder
+* nested if
+* switch statement
+* break and fall-through behavior
+
+---
+
+# if Statement
+
+Executes code when condition is true.
+
+Example:
+
+int age = 20;
+
+if(age >= 18){
+System.out.println("Eligible to vote");
+}
+
+---
+
+# if-else Statement
+
+Used when two outcomes are possible.
+
+Example:
+
+if(number % 2 == 0){
+System.out.println("Even");
+}else{
+System.out.println("Odd");
+}
+
+---
+
+# else-if Ladder
+
+Used when multiple conditions exist.
+
+Example:
+
+if(marks >= 90){
+System.out.println("Grade A");
+}
+else if(marks >= 75){
+System.out.println("Grade B");
+}
+else{
+System.out.println("Fail");
+}
+
+---
+
+# Switch Statement
+
+Used for checking multiple fixed values.
+
+Example:
+
+switch(day){
+case 1:
+System.out.println("Monday");
+break;
+
+case 2:
+System.out.println("Tuesday");
+break;
+}
+
+---
+
+# Programs Implemented
+
+* IfDemo.java
+* IfElseDemo.java
+* ElseIfDemo.java
+* NestedIfDemo.java
+* SwitchDemo.java
+
+---
+
+# Learning Outcome
+
+Today I learned how Java programs make decisions using control flow statements such as if, else-if, and switch.
+
+
