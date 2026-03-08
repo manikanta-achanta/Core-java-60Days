@@ -824,3 +824,89 @@ break;
 Today I learned how Java programs make decisions using control flow statements such as if, else-if, and switch.
 
 
+# Day 6 – Java Loops
+
+## Topics Covered
+
+* for loop
+* while loop
+* do-while loop
+* break statement
+* continue statement
+* nested loops
+* pattern programs
+
+---
+
+## For Loop
+
+Used when iteration count is known.
+
+Example:
+
+for(int i=1;i<=5;i++){
+System.out.print(i);
+}
+
+---
+
+## While Loop
+
+Used when condition-based looping is required.
+
+Example:
+
+while(i<=5){
+System.out.print(i);
+}
+
+---
+
+## Do-While Loop
+
+Executes at least once.
+
+Example:
+
+do{
+System.out.print(i);
+}while(i<=5);
+
+---
+
+## Break Statement
+
+Stops loop execution.
+
+---
+
+## Continue Statement
+
+Skips current iteration.
+
+---
+
+## Pattern Program
+
+*
+
+**
+
+---
+
+---
+
+---
+
+## Programs Implemented
+
+* ForLoopDemo.java
+* WhileLoopDemo.java
+* DoWhileDemo.java
+* BreakDemo.java
+* ContinueDemo.java
+* NestedLoopDemo.java
+* StarPattern.java
+* NumberPattern.java
+
+
