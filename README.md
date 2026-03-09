@@ -909,4 +909,40 @@ Skips current iteration.
 * StarPattern.java
 * NumberPattern.java
 
+# Day 7 – Pattern Programming
+
+## Topics Covered
+
+Today I practiced pattern programming using nested loops.
+
+Patterns implemented:
+
+* Star triangle pattern
+* Reverse star pattern
+* Square star pattern
+* Number increasing pattern
+* Number repeating pattern
+* Right aligned triangle
+
+These patterns help understand nested loops and improve logical thinking.
+
+## Example Pattern
+
+```
+*
+**
+***
+****
+```
+
+## Programs Implemented
+
+* StarPattern1.java
+* StarPattern2.java
+* NumberPattern1.java
+* NumberPattern2.java
+* SquarePattern.java
+* RightTriangle.java
+
+
 
