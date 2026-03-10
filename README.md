@@ -945,4 +945,32 @@ These patterns help understand nested loops and improve logical thinking.
 * RightTriangle.java
 
 
+# Day 8 – Methods in Java
+
+## Topics Covered
+
+* Method definition
+* Method parameters
+* Return values
+* Static methods
+* Method overloading
+
+Methods help in code reuse and modular programming.
+
+Example method:
+
+void greet(){
+System.out.println("Hello");
+}
+
+## Programs Implemented
+
+* MethodDemo.java
+* MethodParameters.java
+* ReturnMethod.java
+* StaticMethodDemo.java
+* MethodOverloading.java
+
+
+
 
