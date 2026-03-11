@@ -972,5 +972,32 @@ System.out.println("Hello");
 * MethodOverloading.java
 
 
+# Day 9 – Recursion in Java
+
+## Topics Covered
+
+* What is recursion
+* Base case
+* Recursive calls
+* Call stack behavior
+* Recursive programs
+
+Recursion is a technique where a method calls itself to solve smaller subproblems.
+
+## Programs Implemented
+
+* FactorialRecursion.java
+* SumRecursion.java
+* FibonacciRecursion.java
+* ReverseNumber.java
+* PowerRecursion.java
+
+## Example
+
+Factorial using recursion:
+
+n! = n × (n-1)!
+
+
 
 
