@@ -999,5 +999,25 @@ Factorial using recursion:
 n! = n × (n-1)!
 
 
+# Day 10 – Strings in Java
+
+## Topics Covered
+
+* String creation
+* String constant pool
+* == vs equals()
+* String immutability
+* String methods
+
+## Programs Implemented
+
+* StringCreation.java
+* ReverseString.java
+* PalindromeString.java
+
+Strings are immutable objects stored in heap memory and string constant pool.
+
+
+
 
 
