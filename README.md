@@ -1018,6 +1018,24 @@ n! = n × (n-1)!
 Strings are immutable objects stored in heap memory and string constant pool.
 
 
+# Day 11 – StringBuilder & StringBuffer
+
+## Topics Covered
+
+* String immutability
+* Mutable vs Immutable objects
+* StringBuilder
+* StringBuffer
+* Performance differences
+
+## Programs
+
+* StringBuilderDemo.java
+* ReverseUsingBuilder.java
+
+StringBuilder and StringBuffer provide efficient ways to modify strings without creating multiple objects.
+
+
 
 
 
