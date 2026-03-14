@@ -1036,6 +1036,24 @@ Strings are immutable objects stored in heap memory and string constant pool.
 StringBuilder and StringBuffer provide efficient ways to modify strings without creating multiple objects.
 
 
+# Day 12 – Autoboxing and Unboxing
+
+## Topics Covered
+
+- Primitive vs Wrapper Classes
+- Autoboxing
+- Unboxing
+- Integer Cache (-128 to 127)
+- equals() vs ==
+- Performance issues with autoboxing
+
+## Key Learning
+
+Autoboxing automatically converts primitive types into wrapper objects.
+Unboxing converts wrapper objects back to primitives.
+
+Integer caching improves memory efficiency for values between -128 and 127.
+
 
 
 
