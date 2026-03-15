@@ -1055,5 +1055,27 @@ Unboxing converts wrapper objects back to primitives.
 Integer caching improves memory efficiency for values between -128 and 127.
 
 
+# Day 13 – StringBuffer vs StringBuilder
+
+## Topics Covered
+
+- StringBuffer Introduction
+- Mutable Strings
+- Thread Safety
+- Synchronization
+- Performance Comparison
+
+## Key Differences
+
+| Feature | StringBuilder | StringBuffer |
+|-------|-------------|-------------|
+| Thread Safe | No | Yes |
+| Performance | Faster | Slower |
+
+## Key Learnings
+
+StringBuffer provides thread-safe string manipulation using synchronized methods.
+
+
 
 
