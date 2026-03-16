@@ -1078,4 +1078,25 @@ StringBuffer provides thread-safe string manipulation using synchronized methods
 
 
 
+# Day 14 – Advanced StringBuilder Methods
+
+## Topics Covered
+
+- ensureCapacity()
+- setLength()
+- trimToSize()
+- substring()
+
+## Key Learnings
+
+StringBuilder provides advanced methods to control internal buffer size and string length.
+
+ensureCapacity() ensures minimum buffer capacity.
+
+setLength() can truncate or extend the string.
+
+trimToSize() reduces capacity to current length.
+
+
+
 
