@@ -1097,6 +1097,31 @@ setLength() can truncate or extend the string.
 
 trimToSize() reduces capacity to current length.
 
+# Day 15 – String Interview Problems
+
+## Problems Solved
+
+- Reverse String
+- Palindrome Check
+- Remove Duplicate Characters
+- First Non-Repeating Character
+- Anagram Check
+- Longest Substring without repeating characters
+- Check if Two Strings are Rotations
+- Longest Palindromic Substring
+
+## Key Learnings
+
+- String is immutable
+- StringBuilder improves performance
+- indexOf() and lastIndexOf() are useful
+- Sorting helps in anagram problems
+
+## Complexity Insights
+
+- charAt() → O(1)
+- String concatenation → O(n)
+
 
 
 
