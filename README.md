@@ -1123,5 +1123,24 @@ trimToSize() reduces capacity to current length.
 - String concatenation → O(n)
 
 
+# Day 16 – JVM Architecture
+
+## Topics Covered
+
+- JVM Overview
+- Class Loader Subsystem
+- Runtime Data Areas
+- Execution Engine
+- JIT Compiler
+
+## Key Learnings
+
+JVM executes bytecode and manages memory using stack and heap.
+
+ClassLoader loads classes into memory.
+
+Execution Engine runs bytecode using Interpreter and JIT.
+
+
 
 
