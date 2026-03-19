@@ -1142,5 +1142,23 @@ ClassLoader loads classes into memory.
 Execution Engine runs bytecode using Interpreter and JIT.
 
 
+# Day 17 – JVM Memory Model
+
+## Topics Covered
+
+- Stack Memory
+- Heap Memory
+- Method Area (Metaspace)
+- Object Creation Process
+- Memory Lifecycle
+
+## Key Learnings
+
+- Stack stores local variables and references
+- Heap stores objects
+- Method Area stores class-level data
+- JVM manages memory using stack and heap
+
+
 
 
