@@ -1160,5 +1160,23 @@ Execution Engine runs bytecode using Interpreter and JIT.
 - JVM manages memory using stack and heap
 
 
+# Day 18 – Garbage Collection
+
+## Topics Covered
+
+- Garbage Collection Basics
+- GC Algorithms (Mark & Sweep, Compact)
+- Generational GC
+- Minor vs Major GC
+- finalize() method
+
+## Key Learnings
+
+- GC removes unreferenced objects
+- System.gc() is not guaranteed
+- Most objects die in Young Generation
+- GC improves memory management automatically
+
+
 
 
