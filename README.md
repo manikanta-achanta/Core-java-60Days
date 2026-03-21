@@ -1178,5 +1178,22 @@ Execution Engine runs bytecode using Interpreter and JIT.
 - GC improves memory management automatically
 
 
+# Day 19 – Exception Handling
+
+## Topics Covered
+
+- Exception Basics
+- Checked vs Unchecked
+- try-catch-finally
+- throw vs throws
+
+## Key Learnings
+
+- Exceptions disrupt normal flow
+- try-catch handles runtime errors
+- finally always executes
+- throw creates exception manually
+
+
 
 
