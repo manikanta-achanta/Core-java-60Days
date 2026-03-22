@@ -1196,4 +1196,23 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 20 – Advanced Exception Handling
+
+## Topics Covered
+
+- Multiple catch blocks
+- Multi-catch (Java 7)
+- Nested try-catch
+- Exception propagation
+- try-with-resources
+
+## Key Learnings
+
+- Exceptions propagate through call stack
+- try-with-resources prevents memory leaks
+- Multi-catch simplifies code
+- Proper exception handling improves stability
+
+
+
 
