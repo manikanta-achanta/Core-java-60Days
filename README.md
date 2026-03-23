@@ -1214,5 +1214,22 @@ Execution Engine runs bytecode using Interpreter and JIT.
 - Proper exception handling improves stability
 
 
+# Day 21 – Advanced Exceptions
+
+## Topics Covered
+
+- throw vs throws
+- Custom Exceptions
+- Checked vs Unchecked Custom Exceptions
+- Exception Chaining
+
+## Key Learnings
+
+- throw creates exception manually
+- throws declares exception
+- Custom exceptions improve business logic clarity
+- Exception chaining preserves root cause
+
+
 
 
