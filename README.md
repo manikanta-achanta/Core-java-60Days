@@ -1231,5 +1231,24 @@ Execution Engine runs bytecode using Interpreter and JIT.
 - Exception chaining preserves root cause
 
 
+# Day 22 – Classes & Objects
+
+## Topics Covered
+
+- Class and Object basics
+- Object creation (JVM internal flow)
+- Stack vs Heap memory
+- Multiple objects
+- Reference behavior
+- Anonymous objects
+
+## Key Learnings
+
+- Object is stored in heap
+- Reference is stored in stack
+- Multiple references can point to same object
+- JVM handles memory allocation automatically
+
+
 
 
