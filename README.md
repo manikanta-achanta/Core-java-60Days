@@ -1250,5 +1250,23 @@ Execution Engine runs bytecode using Interpreter and JIT.
 - JVM handles memory allocation automatically
 
 
+# Day 23 – Constructors
+
+## Topics Covered
+
+- Constructor basics
+- Default constructor
+- Parameterized constructor
+- Constructor overloading
+- Constructor chaining (this())
+
+## Key Learnings
+
+- Constructor initializes object
+- JVM calls constructor automatically
+- this() used for chaining constructors
+- Default constructor exists only if no constructor defined
+
+
 
 
