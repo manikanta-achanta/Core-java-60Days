@@ -1270,3 +1270,23 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 24 – Encapsulation
+
+## Topics Covered
+
+- Encapsulation concept
+- Access modifiers
+- Getters and setters
+- Data hiding
+- Immutable classes
+
+## Key Learnings
+
+- Use private variables
+- Use public methods for access
+- Apply validation in setters
+- Encapsulation improves security and design
+
+
+
+
