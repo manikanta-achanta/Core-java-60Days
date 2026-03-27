@@ -1288,5 +1288,23 @@ Execution Engine runs bytecode using Interpreter and JIT.
 - Encapsulation improves security and design
 
 
+# Day 25 – Inheritance
+
+## Topics Covered
+
+- Inheritance basics
+- Types of inheritance
+- super keyword
+- Constructor flow
+- Method overriding
+
+## Key Learnings
+
+- Child class inherits parent class
+- super() is automatically called
+- Parent constructor executes first
+- Inheritance enables code reuse
+
+
 
 
