@@ -1306,5 +1306,27 @@ Execution Engine runs bytecode using Interpreter and JIT.
 - Inheritance enables code reuse
 
 
+# Day 26 — Method Overriding
+
+## Topics Covered
+- Method Overriding
+- Runtime Polymorphism
+- Dynamic Method Dispatch
+- Covariant Return Type
+- Method Hiding
+
+## Key Takeaways
+- Overriding enables runtime polymorphism
+- Method resolution happens at runtime
+- Static methods are not overridden
+- Final/private methods cannot be overridden
+
+## Practice Programs
+- Animal/Dog example
+- Vehicle example
+- Covariant return
+- Static method hiding
+
+
 
 
