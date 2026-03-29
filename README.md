@@ -1328,5 +1328,20 @@ Execution Engine runs bytecode using Interpreter and JIT.
 - Static method hiding
 
 
+# Day 27 — Polymorphism
+
+## Topics Covered
+- Compile-time vs Runtime Polymorphism
+- Method Overriding
+- Dynamic Method Dispatch
+- Upcasting & Downcasting
+
+## Key Takeaways
+- Runtime decides method execution
+- Reference type controls access
+- Object type controls behavior
+- Static methods are not polymorphic
+
+
 
 
