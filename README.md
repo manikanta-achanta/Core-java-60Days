@@ -1343,5 +1343,20 @@ Execution Engine runs bytecode using Interpreter and JIT.
 - Static methods are not polymorphic
 
 
+# Day 28 — Abstraction
+
+## Topics Covered
+- Abstract Classes
+- Abstract Methods
+- Runtime Polymorphism with Abstraction
+- Abstract Class Rules
+
+## Key Takeaways
+- Cannot instantiate abstract class
+- Must override abstract methods
+- Abstract classes can have constructors
+- Used for flexible and scalable design
+
+
 
 
