@@ -1359,4 +1359,20 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 29 — Interfaces
+
+## Topics Covered
+- Interface basics
+- Multiple inheritance
+- Default & static methods
+- Functional interfaces
+
+## Key Takeaways
+- Interfaces provide 100% abstraction
+- Support multiple inheritance
+- Enable loose coupling
+- Widely used in backend development
+
+
+
 
