@@ -1374,5 +1374,20 @@ Execution Engine runs bytecode using Interpreter and JIT.
 - Widely used in backend development
 
 
+# Day 30 — OOP Final Mastery
+
+## Topics Covered
+- Abstract class
+- Interface
+- Polymorphism
+- Multiple inheritance
+
+## Key Takeaways
+- Interface = contract
+- Abstract = partial implementation
+- Polymorphism = runtime behavior
+- Enables scalable backend systems
+
+
 
 
