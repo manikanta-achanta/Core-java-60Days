@@ -1390,4 +1390,19 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 31 — File Handling
+
+## Topics Covered
+- File class
+- File creation, deletion
+- File properties
+- Directory handling
+
+## Key Takeaways
+- File class does NOT read/write data
+- File object ≠ actual file
+- OS interaction required
+
+
+
 
