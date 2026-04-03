@@ -1404,5 +1404,21 @@ Execution Engine runs bytecode using Interpreter and JIT.
 - OS interaction required
 
 
+# Day 32 — File Streams
+
+## Topics Covered
+- FileInputStream
+- FileOutputStream
+- Byte streams
+- Buffer reading
+- File copying
+
+## Key Takeaways
+- Streams handle actual data
+- read() returns byte or -1
+- Always close streams
+- Buffer improves performance
+
+
 
 
