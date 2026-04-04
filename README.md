@@ -1420,5 +1420,21 @@ Execution Engine runs bytecode using Interpreter and JIT.
 - Buffer improves performance
 
 
+# Day 33 — Buffered Streams
+
+## Topics Covered
+- BufferedReader
+- BufferedWriter
+- FileReader
+- FileWriter
+- Performance optimization
+
+## Key Takeaways
+- Buffered streams are faster
+- readLine() reads full line
+- Always close streams
+- Use for text processing
+
+
 
 
