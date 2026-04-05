@@ -1436,5 +1436,21 @@ Execution Engine runs bytecode using Interpreter and JIT.
 - Use for text processing
 
 
+# Day 34 — Serialization & Deserialization
+
+## Topics Covered
+- Serializable interface
+- ObjectOutputStream
+- ObjectInputStream
+- transient keyword
+- serialVersionUID
+
+## Key Takeaways
+- Converts object to byte stream
+- Used for storage and communication
+- transient skips fields
+- serialVersionUID avoids version issues
+
+
 
 
