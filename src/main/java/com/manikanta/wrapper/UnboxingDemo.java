@@ -1,14 +1,19 @@
 package com.manikanta.wrapper;
 
-public class UnboxingDemo {
+import java.util.ArrayList;
 
+class unboxing {
     public static void main(String[] args) {
 
-        Integer num = 25;
+        Character ch = 'a';
+        // Unboxing: Character -> char
+        char c = ch;
 
-        int value = num;
+        ArrayList<Integer> list = new ArrayList<>();
+        list.add(24);
+        // Unboxing: Integer -> int
+        int num = list.get(0);
 
-        System.out.println(value);
-
+        System.out.println(num);
     }
 }

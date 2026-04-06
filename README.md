@@ -1453,4 +1453,19 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 35 — Wrapper Classes
+
+## Topics Covered
+- Wrapper classes
+- Autoboxing & unboxing
+- Integer caching
+- Parsing methods
+
+## Key Takeaways
+- Wrapper classes convert primitives to objects
+- Required for collections
+- Immutable and cached
+
+
+
 
