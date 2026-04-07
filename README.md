@@ -1467,5 +1467,19 @@ Execution Engine runs bytecode using Interpreter and JIT.
 - Immutable and cached
 
 
+# Day 36 — Autoboxing & Unboxing
+
+## Topics Covered
+- Autoboxing
+- Unboxing
+- Integer caching
+- Performance impact
+
+## Key Takeaways
+- Autoboxing uses valueOf()
+- Unboxing can cause NullPointerException
+- Avoid wrappers in loops
+
+
 
 
