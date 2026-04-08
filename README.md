@@ -1482,4 +1482,19 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 37 — Enums
+
+## Topics Covered
+- Enum basics
+- Enum methods
+- Enum constructor
+- Enum with switch
+
+## Key Takeaways
+- Enum provides type safety
+- Used for fixed constants
+- Can have methods and constructors
+
+
+
 
