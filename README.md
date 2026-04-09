@@ -1497,4 +1497,19 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 38 — Static Keyword
+
+## Topics Covered
+- Static variables
+- Static methods
+- Static block
+- Memory model
+
+## Key Takeaways
+- Static belongs to class
+- Shared memory
+- Static block runs once
+
+
+
 
