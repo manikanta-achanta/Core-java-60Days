@@ -1512,4 +1512,19 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 39 — final Keyword
+
+## Topics Covered
+- final variable
+- final method
+- final class
+- final vs finally vs finalize
+
+## Key Takeaways
+- final prevents modification
+- final method cannot be overridden
+- final class cannot be inherited
+
+
+
 
