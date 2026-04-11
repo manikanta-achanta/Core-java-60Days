@@ -1527,4 +1527,20 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 40 — Reflection API
+
+## Topics Covered
+- Reflection basics
+- Class metadata
+- Methods, fields access
+- Dynamic method invocation
+
+## Key Takeaways
+- Reflection works at runtime
+- Used in frameworks
+- Can access private members
+- Slower than normal code
+
+
+
 
