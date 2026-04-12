@@ -1543,4 +1543,20 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 41 — Collections Framework
+
+## Topics Covered
+- Collection hierarchy
+- List, Set, Map
+- Generics
+- Basic operations
+
+## Key Takeaways
+- Collections store dynamic data
+- List allows duplicates
+- Set removes duplicates
+- Map stores key-value pairs
+
+
+
 
