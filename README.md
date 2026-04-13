@@ -1559,4 +1559,19 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 42 — ArrayList
+
+## Topics Covered
+- ArrayList basics
+- Internal working
+- Dynamic resizing
+- Time complexity
+
+## Key Takeaways
+- Uses array internally
+- Resizes automatically
+- Fast access, slow deletion
+
+
+
 

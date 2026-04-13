@@ -10,6 +10,7 @@ public class Test1 {
         list.add(20);
         list.add(10);
 
+
         System.out.println(list);
         System.out.println(list.get(2));
     }
