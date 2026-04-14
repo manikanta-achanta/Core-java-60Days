@@ -1573,5 +1573,19 @@ Execution Engine runs bytecode using Interpreter and JIT.
 - Fast access, slow deletion
 
 
+# Day 43 — LinkedList
+
+## Topics Covered
+- LinkedList basics
+- Node structure
+- Doubly linked list
+- Comparison with ArrayList
+
+## Key Takeaways
+- Uses nodes, not arrays
+- Fast insertion/deletion
+- Slow random access
+
+
 
 
