@@ -1588,4 +1588,19 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 44 — HashSet
+
+## Topics Covered
+- HashSet basics
+- Hashing concept
+- Internal working
+- hashCode & equals
+
+## Key Takeaways
+- No duplicates allowed
+- Uses HashMap internally
+- Fast operations (O(1))
+
+
+
 
