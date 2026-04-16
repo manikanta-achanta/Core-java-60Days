@@ -1603,4 +1603,19 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 45 — HashMap
+
+## Topics Covered
+- HashMap basics
+- Key-value pairs
+- Hashing
+- Collision handling
+
+## Key Takeaways
+- Fast access using hashing
+- Unique keys
+- Internal bucket structure
+
+
+
 
