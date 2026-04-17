@@ -1619,3 +1619,19 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 46 — TreeSet & TreeMap
+
+## Topics Covered
+- TreeSet
+- TreeMap
+- Red-Black Tree
+- Sorting
+
+## Key Takeaways
+- Sorted collections
+- O(log n) performance
+- Uses tree structure
+
+
+
+
