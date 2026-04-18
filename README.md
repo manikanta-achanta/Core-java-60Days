@@ -1634,4 +1634,19 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 47 — Comparable vs Comparator
+
+## Topics Covered
+- Comparable interface
+- Comparator interface
+- Sorting custom objects
+- Lambda expressions
+
+## Key Takeaways
+- Comparable = default sorting
+- Comparator = custom sorting
+- Lambda simplifies code
+
+
+
 
