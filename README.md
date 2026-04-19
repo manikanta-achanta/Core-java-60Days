@@ -1649,4 +1649,19 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 48 — Iterator & ListIterator
+
+## Topics Covered
+- Iterator
+- ListIterator
+- Safe traversal
+- Modification during iteration
+
+## Key Takeaways
+- Iterator prevents runtime errors
+- ListIterator allows modification
+- Important for real-world applications
+
+
+
 
