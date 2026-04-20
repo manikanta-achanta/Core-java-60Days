@@ -1664,4 +1664,19 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 49 — Multithreading Basics
+
+## Topics Covered
+- Threads
+- Runnable vs Thread
+- Thread lifecycle
+- Basic methods
+
+## Key Takeaways
+- Thread enables parallel execution
+- start() creates new thread
+- Runnable is better approach
+
+
+
 
