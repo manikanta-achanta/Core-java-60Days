@@ -1680,3 +1680,19 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 50 — Thread Lifecycle
+
+## Topics Covered
+- Thread states
+- Lifecycle flow
+- Thread methods
+- State transitions
+
+## Key Takeaways
+- Threads go through multiple states
+- Scheduler controls execution
+- join() and sleep() are important
+
+
+
+
