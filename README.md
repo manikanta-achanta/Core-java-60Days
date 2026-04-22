@@ -1696,3 +1696,19 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 51 — Synchronization
+
+## Topics Covered
+- Race condition
+- Synchronized method
+- Synchronized block
+- Locks
+
+## Key Takeaways
+- Prevents data inconsistency
+- Ensures thread safety
+- Important for shared resources
+
+
+
+
