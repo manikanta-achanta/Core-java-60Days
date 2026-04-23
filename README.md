@@ -1711,4 +1711,18 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 52 — Deadlock
+
+## Topics Covered
+- Deadlock concept
+- Causes of deadlock
+- Prevention techniques
+- Thread locking
+
+## Key Takeaways
+- Deadlock freezes program
+- Caused by circular waiting
+- Prevent using lock ordering
+
+
 
