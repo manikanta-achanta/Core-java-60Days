@@ -1726,3 +1726,18 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 53 — Thread Pool & Executors
+
+## Topics Covered
+- Thread pools
+- ExecutorService
+- Fixed, Cached, Single thread pool
+- Task execution
+
+## Key Takeaways
+- Reuse threads efficiently
+- Improves performance
+- Essential for backend systems
+
+
+
