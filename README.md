@@ -1741,3 +1741,18 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 54 — JDBC Architecture
+
+## Topics Covered
+- JDBC basics
+- Architecture
+- Components
+- Connection steps
+
+## Key Takeaways
+- JDBC connects Java with DB
+- Uses DriverManager and Connection
+- Executes SQL queries
+
+
+
