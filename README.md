@@ -1756,3 +1756,18 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 55 — JDBC Core Components
+
+## Topics Covered
+- Connection
+- Statement
+- ResultSet
+- Query execution
+
+## Key Takeaways
+- JDBC enables DB operations
+- ResultSet holds data
+- Proper resource handling is important
+
+
+
