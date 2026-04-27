@@ -1771,3 +1771,18 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 56 — PreparedStatement & SQL Injection
+
+## Topics Covered
+- SQL Injection
+- PreparedStatement
+- Secure queries
+- Parameter binding
+
+## Key Takeaways
+- Prevents SQL injection
+- Faster execution
+- Essential for backend security
+
+
+
