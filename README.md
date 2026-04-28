@@ -1786,3 +1786,19 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+
+# Day 57 — Transactions & Batch Processing
+
+## Topics Covered
+- Transactions
+- ACID properties
+- commit & rollback
+- Batch processing
+
+## Key Takeaways
+- Ensures data consistency
+- Prevents partial updates
+- Improves performance with batch
+
+
+
