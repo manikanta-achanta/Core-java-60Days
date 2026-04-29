@@ -1802,3 +1802,18 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 58 — Java Memory Model
+
+## Topics Covered
+- JMM basics
+- Visibility, Atomicity, Ordering
+- volatile keyword
+- happens-before
+
+## Key Takeaways
+- Threads have separate memory
+- volatile ensures visibility
+- JMM prevents concurrency bugs
+
+
+
