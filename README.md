@@ -1817,3 +1817,19 @@ Execution Engine runs bytecode using Interpreter and JIT.
 
 
 
+# Day 59 — Java Interview Puzzles
+
+## Topics Covered
+- String puzzles
+- OOP puzzles
+- Exception handling
+- Collections
+- Multithreading
+
+## Key Takeaways
+- Focus on logic, not syntax
+- Understand execution flow
+- Avoid common traps
+
+
+
